@@ -1,0 +1,258 @@
+.navbar-brand{
+    height: 80px;
+    width: 80px;
+}
+
+nav-brand img{
+    width: 100%;
+    height: 100%;
+}
+
+.nav-bg{
+    background-color: #e8fff9;
+    box-shadow: 1px 1px 5px black;
+}
+
+.bg-container-carousel{
+    background-color: #b5705b;
+    
+    /* height: 320px; */
+}
+
+.textos-brancos{
+    color:white;
+    text-shadow: 1px 1px 2px black;
+    font-family: Arial;
+}
+
+
+.textos-container-carousel{
+    margin-top: 50px;
+
+}
+
+.textos-container-carousel h3{
+    font-family:"Impact";
+}
+
+
+#carouseltopo{
+    margin-top:20px;
+}
+
+.carousel-item img{
+    border-radius:15px;
+    box-shadow: 2px 2px 5px black;
+    margin-bottom: 20px;
+}
+
+.textoboasvindas{
+    margin-top:70px;
+    margin-bottom:40px;
+}
+
+
+.barraportras-nav{
+    height: 97px;
+}
+
+#videoconversandosobre{
+    box-shadow: 2px 2px 10px black;
+    margin-top:150px;
+    margin-bottom:150px;
+}
+
+#textosvideo{
+    margin-top:150px;
+}
+
+
+.rodape{
+    color:white;
+    
+    height: 300px;
+    background-color:#196953;
+    box-shadow:2px 2px 10px black;
+
+}
+
+
+
+.copyright{
+    padding-top: 7px;
+    background-color:#272727;
+    height: 40px;
+    
+    box-shadow:2px 2px 7px black;
+
+}
+
+.p-copy{
+    margin-bottom:0px;
+    color:white;
+   
+}
+.textorodape{
+   margin-bottom:0; 
+   margin-top:50px;
+
+}
+
+.divi-footer{
+    border-right: solid 1px #0f4032;
+    height: 250px;
+   
+}
+
+
+.anima{
+    opacity:0;
+    transform:translate3d(-100px,0px,0px);
+    transition: .5s;
+}
+
+.inicia-anima{
+    opacity:1;
+    transform:translate3d(0px,0px,0px);
+    
+
+
+}
+
+
+
+.col-losango{
+    padding-top:100px;
+    padding-bottom:50px;
+
+}
+
+.losango{
+    margin:0 auto; 
+    width:150px;
+    height:150px;
+    transform: rotate(45deg);
+    background-color:#3eb494;
+    box-shadow:2px 2px 8px black;
+    transition:0.5s;
+}
+
+.nome-da-doenca{
+    margin-top:25px;
+}
+
+#img-aids{
+    margin-left:5px;
+    margin-top:6px;
+    width:130px;
+    height:130px;
+
+   
+}
+
+#img-covid{
+    width:100px;
+    height: 100px;
+    margin-top:20px;
+    margin-left:19px;
+}
+
+#img-gripe{
+    width:118px;
+    height: 118px;
+    margin-top:15px;
+    margin-left:12px;
+}
+
+.img-doenca{
+    position:relative;
+    width:130px;
+    height: 130px;
+ 
+}
+
+
+.title-losango{
+    margin-top:70px;
+}
+
+
+.anima-doenca{
+    position:absolute;
+    transform:translate3d(0px,0px,0px) rotate(0deg);
+    transition:2s;
+    
+   
+
+}
+
+.anima-doenca-frame2{
+    transform:translate3d(-40px,-40px,0px) rotate(50deg);
+ 
+   
+    
+}
+
+.anima-doenca-hover{
+    transform:translate3d(-80px,-95px,0px) rotate(70deg);
+    transition:2s;
+}
+
+
+
+
+.anima-caixa-hover{
+    transform:rotate(0deg);
+    background-color:#5a5a5a;
+    height:300px;
+    transition:0.5s;
+}
+
+.anima-caixa-hover2{
+    width:250px;
+}
+.anima-doenca-hover-2{
+   
+    transform:translate3d(0px,-100px,0px);
+}
+.textodoenca{
+    
+    position:relative;
+    margin-left:10px;
+    margin-right: 10px;
+   
+    display:none;
+    color:white;
+}
+
+.aparecetexto{
+    display:block;
+}
+
+.col-textodoenca{
+    padding-top:50px;
+}
+
+
+.btn-doenca{
+    background-color:#b5593e;
+    border-color:#b5593e;
+}
+.a-btn{
+    display:none;
+}
+.aparece-btn{
+    display:block;
+}
+
+
+.oque-ehiv{
+    margin-top:86px;
+    box-shadow: 2px 2px 5px black;
+}
+.oque-ehiv-p{
+    margin-top:20px;
+    
+}
+
+
